@@ -1,0 +1,30 @@
+# CDC Weekley counts of deaths by state and select causes
+# 2019 - 2020
+# export of https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/muzy-jte6
+# Last update 11-04-2020
+# Columns after S removed for clarity.
+
+Jurisdiction of Occurrence,MMWR Year,MMWR Week,Week Ending Date,All Cause,Natural Cause,Septicemia (A40-A41),Malignant neoplasms (C00-C97),Diabetes mellitus (E10-E14),Alzheimer disease (G30),Influenza and pneumonia (J09-J18),Chronic lower respiratory diseases (J40-J47),"Other diseases of respiratory system (J00-J06,J30-J39,J67,J70-J98)","Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)","Diseases of heart (I00-I09,I11,I13,I20-I51)",Cerebrovascular diseases (I60-I69),"COVID-19 (U071, Multiple Cause of Death)","COVID-19 (U071, Underlying Cause of Death)"
+Alabama,2019,1,1/5/19,1077,993,30,198,22,60,21,63,14,21,27,261,53,0,0
+Alabama,2019,2,1/12/19,1090,994,25,187,24,49,18,85,21,13,11,275,65,0,0
+Alabama,2019,3,1/19/19,1114,1042,22,238,18,48,31,80,30,25,15,283,53,0,0
+Alabama,2019,4,1/26/19,1063,994,21,165,22,50,22,113,14,25,23,279,56,0,0
+Alabama,2019,5,2/2/19,1095,1026,18,199,19,52,19,80,20,24,21,290,50,0,0
+Alabama,2019,6,2/9/19,1092,1005,18,182,25,56,28,76,27,22,28,278,59,0,0
+Alabama,2019,7,2/16/19,1103,1017,27,214,25,51,27,78,17,22,20,262,56,0,0
+Alabama,2019,8,2/23/19,1064,992,16,183,22,52,17,70,23,26,20,273,52,0,0
+Alabama,2019,9,3/2/19,1050,966,25,164,30,52,28,65,11,23,15,283,56,0,0
+Alabama,2019,10,3/9/19,1062,964,18,189,27,50,19,81,12,19,17,260,63,0,0
+Alabama,2019,11,3/16/19,1090,1015,21,216,24,60,26,71,22,25,22,278,57,0,0
+Alabama,2019,12,3/23/19,1012,938,21,176,23,48,22,70,15,24,22,259,62,0,0
+Alabama,2019,13,3/30/19,1079,999,23,202,20,52,20,59,12,15,22,281,67,0,0
+Alabama,2019,14,4/6/19,1044,960,12,202,20,43,18,77,22,15,22,248,64,0,0
+Alabama,2019,15,4/13/19,1031,932,22,174,29,46,21,74,16,15,26,267,51,0,0
+Alabama,2019,16,4/20/19,954,896,21,163,24,50,19,62,16,20,18,256,59,0,0
+Alabama,2019,17,4/27/19,1042,982,21,215,28,39,19,77,20,23,18,259,59,0,0
+Alabama,2019,18,5/4/19,1031,942,14,204,20,47,21,60,16,16,16,257,54,0,0
+Alabama,2019,19,5/11/19,1009,920,15,217,21,48,18,67,12,19,21,240,55,0,0
+Alabama,2019,20,5/18/19,996,907,17,191,20,51,19,54,22,12,21,250,54,0,0
+Alabama,2019,21,5/25/19,974,917,14,193,27,45,21,79,,18,20,266,64,0,0
+Alabama,2019,22,6/1/19,1027,928,21,194,17,56,18,76,,18,18,255,64,0,0
+Alabama,2019,23,6/8/19,1029,924,15,222,17,55,11,62,17,16,21,246,57,0,0

@@ -1,0 +1,58 @@
+Mortality For All States by Date Range    For the selected date range 01/04/2020 - 11/06/2021
+Report Generated: 12/12/2021     07:07:50
+                               TOTAL         NATURAL      C19 MULTIPLE    C19 UNDERLYING
+STATE                          DEATHS        CAUSES          CAUSES           CAUSE
+-----------------------------------------------------------------------------------------------------------
+Alabama                        119068       109836           15711            14735
+Alaska                           9414         7848             635              554
+Arizona                        144195       128778           19512            17946
+Arkansas                        71494        65787            8671             7726
+California                     601305       550784           76543            71063
+Colorado                        87093        76348            8973             7729
+Connecticut                     65080        59260            8732             8010
+Delaware                        20219        18303            1918             1643
+District of Columbia            13273        11296            1423             1218
+Florida                        470924       427459           58687            53193
+Georgia                        196034       179182           26114            23986
+Hawaii                          22868        21034             763              686
+Idaho                           31674        28579            3713             3265
+Illinois                       228666       210439           25601            23192
+Indiana                        142397       129162           16837            15021
+Iowa                            63114        58322            7247             6387
+Kansas                          56782        51840            6368             5764
+Kentucky                       104243        93780           11525            10196
+Louisiana                      103743        92682           13388            12368
+Maine                           29680        26797            1186             1036
+Maryland                       107793        96555           11744            10327
+Massachusetts                  122080       112645           14565            13259
+Michigan                       208335       190375           21500            19339
+Minnesota                       93214        84474            9039             7672
+Mississippi                     72425        65466           10506             9214
+Missouri                       138915       125620           15247            13906
+Montana                         22358        20048            2460             2143
+Nebraska                        35034        32534            3491             3012
+Nevada                          59659        53606            8207             7695
+New Hampshire                   24919        22789            1436             1241
+New Jersey                     165451       154383           26376            23960
+New Mexico                      42111        37009            5121             4680
+New York                       216261       202223           28044            25415
+New York City                  136185       128417           30496            28064
+North Carolina                 189128       169533           20942            18977
+North Dakota                    15264        13753            1881             1640
+Ohio                           261443       237446           28900            25679
+Oklahoma                        86763        79189           11688            10153
+Oregon                          76984        69225            4902             4326
+Pennsylvania                   283628       258094           33167            29708
+Rhode Island                    21391        19421            2695             2204
+South Carolina                 112830       101695           13740            12495
+South Dakota                    17645        15950            2198             1974
+Tennessee                      167970       150398           19815            18286
+Texas                          482156       441003           77241            72095
+Utah                            41739        36905            3619             3186
+Vermont                         11654        10411             154              119
+Virginia                       149676       137520           14042            12848
+Washington                     120317       108213            8647             7629
+West Virginia                   44300        39363            4384             3899
+Wisconsin                      111766       100427           10144             8154
+Wyoming                         10423         9174            1027              912
+Puerto Rico                     60029        55935            3088             2721
